@@ -19,6 +19,11 @@
   </properties>
 
   <dependencies>
+<dependency>
+  <groupId>com.ibeetl</groupId>
+  <artifactId>mysql</artifactId>
+  <version>3.19.3-RELEASE</version>
+</dependency>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
